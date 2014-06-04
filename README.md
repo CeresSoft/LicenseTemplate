@@ -45,5 +45,5 @@ VisualStudioを起動し、ソリューションエクスプローラーのソリューションを
 
 改版履歴 (Change Log)
 ----------
-Version 1.0 
+### Version 1.0 (01 Jun 2014)
 新規作成
