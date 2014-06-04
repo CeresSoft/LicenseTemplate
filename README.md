@@ -1,7 +1,7 @@
 LicenseTemplate
 ===============
-Last Update 2014/06/01
-Copyright &copy; 2014 CeresSoft
+Last Update 01 Jun 2014  
+Copyright &copy; 2014 CeresSoft  
 Distributed under the MIT License
 
 
@@ -14,15 +14,18 @@ MITライセンスのテンプレートです。
 使い方 (Usage)
 ------
 1. ダウンロード
+
 リポジトリ画面の右下にある「Download ZIP」ボタンをクリックして
 リポジトリ内のファイルをダウンロードします。
 
 1. VisualStudioへコピー
+
 ダウンロードしたファイルを開くと「LICENSE」ファイルと「RADME.md」ファイルの
 2ファイルがあるので、このうちの「LICENSE」ファイルをソリューションフォルダ直下に
 コピーします。
 
 3. コミット
+
 VisualStudioを起動し、ソリューションエクスプローラーのソリューションを
 右クリックしてコンテキストメニューから「追加」=>「既存の項目」を選択します。
 ファイル追加ダイアログが表示されるので、コピーした「LICENSE」ファイルを
