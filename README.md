@@ -2,12 +2,14 @@ LicenseTemplate
 ===============
 Last Update 2014/06/01
 Copyright &copy; 2014 CeresSoft
-Distributed under the [MIT License][mit].
-[MIT]: http://www.opensource.org/licenses/mit-license.php
+Distributed under the MIT License
+
 
 概要 (Introduction)
 ------
 MITライセンスのテンプレートです。
+
+
 
 使い方 (Usage)
 ------
@@ -28,14 +30,16 @@ VisualStudioを起動し、ソリューションエクスプローラーのソリューションを
 これでソリューションエクスプローラーのソリューションの下に
 「Solution Items\LICENSE」が追加されるので、この状態でコミットします
 
+
+
 関連情報 (Links)
 --------
 ### 参考にしたページ ###
-1. [リンク1]
+1. [脱GitHub初心者を目指す人のREADMEマークダウン使いこなし術]
    (http://tokkono.cute.coocan.jp/blog/slow/index.php/programming/markdown-skills-for-github-beginners/ "脱GitHub初心者を目指す人のREADMEマークダウン使いこなし術")
 
-2. [リンク2]
-   (http://qiita.com/shibukk/items/67ad0a5eda5a94e5c032 "githubでライセンスを設定する ")
+2. [githubでライセンスを設定する]
+   (http://qiita.com/shibukk/items/67ad0a5eda5a94e5c032 "githubでライセンスを設定する")
 
 
 
