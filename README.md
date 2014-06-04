@@ -7,7 +7,16 @@ Distributed under the MIT License
 
 概要 (Introduction)
 ------
-MITライセンスのテンプレートです。
+MITライセンスのテンプレートとREADME.mdのサンプルです。
+
+
+環境 (Environment)
+------
+* 開発環境  
+なし
+
+* 動作確認環境  
+なし
 
 
 
@@ -34,16 +43,16 @@ VisualStudioを起動し、ソリューションエクスプローラーのソリューションを
 
 関連情報 (Links)
 --------
-### 参考にしたページ ###
-1. [脱GitHub初心者を目指す人のREADMEマークダウン使いこなし術]
+#### 参考ページ
+* [脱GitHub初心者を目指す人のREADMEマークダウン使いこなし術]
    (http://tokkono.cute.coocan.jp/blog/slow/index.php/programming/markdown-skills-for-github-beginners/ "脱GitHub初心者を目指す人のREADMEマークダウン使いこなし術")
 
-2. [githubでライセンスを設定する]
+* [githubでライセンスを設定する]
    (http://qiita.com/shibukk/items/67ad0a5eda5a94e5c032 "githubでライセンスを設定する")
 
 
 
 改版履歴 (Change Log)
 ----------
-### Version 1.0 (01 Jun 2014)
+#### Version 1.0 (01 Jun 2014)
 新規作成
