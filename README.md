@@ -5,22 +5,24 @@ Copyright &copy; 2014 CeresSoft
 Distributed under the MIT License
 
 
+
 概要 (Introduction)
 ------
 MITライセンスのテンプレートとREADME.mdのサンプルです。
 
 
+
 環境 (Environment)
 ------
-* 開発環境  
+#### 開発環境
 なし
 
-* 動作確認環境  
+#### 動作確認環境
 なし
 
 
 
-使い方 (Usage)
+使用方法 (Usage)
 ------
 1. ダウンロード  
 リポジトリ画面の右下にある「Download ZIP」ボタンをクリックして
