@@ -1,0 +1,2 @@
+LicenseTemplate
+===============
